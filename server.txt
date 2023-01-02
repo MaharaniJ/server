@@ -1,0 +1,3 @@
+API - Application programming Interface
+HTTP -Hyper Text transfer protocol
+it will intiated by browser
